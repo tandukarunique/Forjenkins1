@@ -1,4 +1,3 @@
-package Jenkins;
 import org.testng.annotations.Test;
 
 public class SimpleTest {
